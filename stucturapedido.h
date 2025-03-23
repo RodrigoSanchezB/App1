@@ -14,6 +14,6 @@ typedef struct {
     char pizza_category[75];
     char pizza_ingredients[275];
     char pizza_name[75];
-}; Pedido;
+} Pedido;
 
 #endif 
