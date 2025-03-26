@@ -1,7 +1,10 @@
 #ifndef METRICAN_H
 #define METRICAN_H
+#include "utilidades.h"
 
-#include "structurapedido.h"
+
+
+
 
 // Métricas con sus respectivas siglas del enunciado
 // pms: Pizza más vendida

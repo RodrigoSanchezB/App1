@@ -3,6 +3,7 @@
 #include <string.h>
 #include "utilidades.h"
 
+
 #define MAX_LINE 1024
 #define MAX_FIELDS 12
 
