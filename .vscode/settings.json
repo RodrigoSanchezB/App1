@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stucturapedido.h": "c",
+        "utilidades.h": "c",
+        "metrican.h": "c"
+    }
+}
