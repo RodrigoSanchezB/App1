@@ -3,10 +3,6 @@
 #include <string.h>
 #include "utilidades.h"
 
-<<<<<<< HEAD
-=======
-
->>>>>>> Beta3
 #define MAX_LINE 1024
 #define MAX_FIELDS 12
 
@@ -87,8 +83,4 @@ void print_orders(Pedido *orders, int count) {
         printf("Pizza Ingredients: %s\n", orders[i].pizza_ingredients);
         printf("Pizza Name: %s\n\n", orders[i].pizza_name);
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> Beta3

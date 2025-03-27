@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-#ifndef UTILIDADES_H
-#define UTILIDADES_H
-
-#include "structurapedido.h"
-
-=======
 #ifndef STRUCTURAPEDIDO_H
 #define STRUCTURAPEDIDO_H
 
@@ -30,20 +23,11 @@ typedef struct {
 #ifndef UTILIDADES_H
 #define UTILIDADES_H
 
->>>>>>> Beta3
 
 //Leer archivo CSV y almacenar datos en estructura Pedido
 int read_csv(const char *filename, Pedido *orders);
 
-<<<<<<< HEAD
-
-// Liberar memoria de los pedidos
-void free_orders(Pedido *orders); 
-
-#endif
-=======
 // Liberar memoria de los pedidos
 void free_orders(Pedido *orders); 
 
 #endif 
->>>>>>> Beta3
